@@ -7,6 +7,10 @@ namespace Ui {
 class Task;
 }
 
+/**
+ * @brief The Task class
+ * This class refers to the Task ui form.
+ */
 class Task : public QWidget
 {
     Q_OBJECT
